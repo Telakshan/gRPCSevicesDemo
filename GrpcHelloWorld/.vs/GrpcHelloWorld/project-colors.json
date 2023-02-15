@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec40b34f-5baa-4e3c-a90e-260aa08c1492": {
+      "ProjectGuid": "ec40b34f-5baa-4e3c-a90e-260aa08c1492",
+      "DisplayName": "GrpcHelloWorldServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
