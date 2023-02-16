@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcHelloWorldServer", "GrpcHelloWorldServer\GrpcHelloWorldServer.csproj", "{EC40B34F-5BAA-4E3C-A90E-260AA08C1492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcHelloWorldServer", "GrpcHelloWorldServer\GrpcHelloWorldServer.csproj", "{EC40B34F-5BAA-4E3C-A90E-260AA08C1492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcHelloWorldClient", "GrpcHelloWorldClient\GrpcHelloWorldClient.csproj", "{0E8B682B-2DAF-40B5-AF25-3A8A51586CF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EC40B34F-5BAA-4E3C-A90E-260AA08C1492}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC40B34F-5BAA-4E3C-A90E-260AA08C1492}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC40B34F-5BAA-4E3C-A90E-260AA08C1492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8B682B-2DAF-40B5-AF25-3A8A51586CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8B682B-2DAF-40B5-AF25-3A8A51586CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8B682B-2DAF-40B5-AF25-3A8A51586CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8B682B-2DAF-40B5-AF25-3A8A51586CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

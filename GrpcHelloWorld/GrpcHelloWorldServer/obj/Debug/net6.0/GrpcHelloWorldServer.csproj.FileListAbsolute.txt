@@ -9,10 +9,15 @@ C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Google.Protobuf.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Core.Api.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Net.Client.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Reflection.dll
+C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.csproj.AssemblyReference.cache
+C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.Properties.Resources.resources
+C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.csproj.GenerateResource.cache
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.AssemblyInfoInputs.cache
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.AssemblyInfo.cs
@@ -26,8 +31,3 @@ C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\ref\GrpcHelloWorldServer.dll
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.pdb
 C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.genruntimeconfig.cache
-C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.csproj.AssemblyReference.cache
-C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
-C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\bin\Debug\net6.0\Grpc.Reflection.dll
-C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.Properties.Resources.resources
-C:\Users\baskart\Desktop\Self-Study\gRPC\GrpcHelloWorld\GrpcHelloWorldServer\obj\Debug\net6.0\GrpcHelloWorldServer.csproj.GenerateResource.cache
