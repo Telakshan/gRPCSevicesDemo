@@ -5,11 +5,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddGrpc();
 builder.Services.AddGrpcReflection();
-builder.WebHost.ConfigureKestrel(options =>
+/*builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenLocalhost(5000, o => o.Protocols =
+    options.ListenLocalhost(5001, o => o.Protocols =
         HttpProtocols.Http2);
-});
+});*/
 
 var app = builder.Build();
 
@@ -21,7 +21,5 @@ if (env.IsDevelopment())
 {
     app.MapGrpcReflectionService();
 }
-
-app.MapGet("/", () => "Hello World!");
 
 app.Run();
