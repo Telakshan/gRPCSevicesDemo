@@ -14,7 +14,7 @@ namespace GrpcHelloWorldServer.Services
 
         public override Task<HelloResponse> SayHello(HelloRequest request, ServerCallContext context)
         {
-            string resultMessage = $"Hello {request.Name}";
+            string resultMessage = $"Hello Hello {request.Name}";
 
             var response = new HelloResponse
             {

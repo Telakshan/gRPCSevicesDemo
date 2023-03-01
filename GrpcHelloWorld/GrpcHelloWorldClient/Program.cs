@@ -12,7 +12,7 @@ namespace GrpcHelloWorldClient
             var client = new HelloService.HelloServiceClient(channel);
 
             var reply = await client.SayHelloAsync(
-                    new HelloRequest { Name = "Hello SWN Client" }
+                    new HelloRequest { Name = "SWN Client" }
                 );
 
             Console.WriteLine( "Greetings: " + reply.Message );
